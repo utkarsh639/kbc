@@ -1,0 +1,50 @@
+[
+    {
+        "q":"International Literacy Day is observed on?",
+       "options" :[{"optionA":"Sep 8"},
+        {"optionB":"Nov 28"},
+        {"optionC":"May 2"},
+        {"optionD":"Sep 22"}],
+        "Ans":"Sep 8"
+    },
+    {
+        "q":"Pongal is a popular festival of which state?",
+       "options": [{"optionA":"Karnataka"},
+        {"optionB":"Kerala"},
+        {"optionC":"Tamil Nadu"},
+        {"optionD":"Andhra Pradesh"}],
+        "Ans":"Tamil Nadu"
+    },
+    {
+        "q":"Which shortcut key is used to spell check in MS-word?",
+       "options":[ { "optionA":"F1"},
+        {"optionB":"F2"},
+        {"optionC":"F7"},
+        {"optionD":"F9"}],
+        "Ans":"F7"
+    },
+    {
+        "q":"Which of the following is the currency of Japan?",
+        "options":[{"optionA":"Yen"},
+        {"optionB":"Baht"},
+        {"optionC":"Yuan"},
+        {"optionD":"Won"}],
+        "Ans":"Yen"
+    },
+    {
+        "q":"The number of ways a person can travel by bus from A to C by way of B will be",
+        "options":[{"optionA":"10"},
+        {"optionB":"12"},
+        {"optionC":"14"},
+        {"optionD":"24"}],
+        "Ans":"12"
+    },
+    {
+        "q":"The National Open University is run by",
+        "options":[{"optionA":"CBSE"},
+            {"optionB":"UGC"},
+            {"optionC":"IGNOU"},
+            {"optionD":"NCERT"}],
+        "Ans":"UGC"
+    }
+]

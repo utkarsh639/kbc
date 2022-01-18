@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./icons8-home-30.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap" rel="stylesheet">
+    <title>KBC</title>
+    <link rel="stylesheet" href="kbc.css">
+
+</head>
+
+<body>
+    <h1 class="head">Welcome to Kaun Banega Crorepati</h1>
+
+    <div id="main">
+        <div class="container">
+            <h1 id="timer">
+
+            </h1>
+            <p class="question" id="question"></p>
+            <div class="button">
+                <button id="optionA"></button>
+                <button id="optionB"></button>
+                <button id="optionC"></button>
+                <button id="optionD"></button>
+            </div>
+        </div>
+
+
+        <div class="result">
+            <h2 id="result-h2"></h2>
+
+        </div>
+        <div class="progress-bar">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <div class="play-again"><a href="./kbc1.html" class="kbc again">Play Again</a></div>
+
+
+    <script defer src="kbc.js"></script>
+    <script src="kbc.json"></script>
+</body>
+
+</html>
